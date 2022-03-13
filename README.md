@@ -2,5 +2,5 @@
 
 ---
 
-[Пример моих тест-кейсов](https://docs.google.com/spreadsheets/d/1sRITsxNpNNSyOfvxe0QoCptxe63MXyf5PVWzE-eSyZU/edit?usp=sharing)
+[Пример моего тестового задания](https://docs.google.com/spreadsheets/d/1sRITsxNpNNSyOfvxe0QoCptxe63MXyf5PVWzE-eSyZU/edit?usp=sharing)
 
